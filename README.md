@@ -5,4 +5,11 @@
 ##### The CORE code for inference is in the CORE folder, containing both preprocessing and inference files. Trained models are among them.
 ##### The rest of the code contains the QT interface, scripts for data retrieval, and main functions.
 ## Dependency libraries mainly contain：
-##### python==3.8.0 pytorch==1.4.0 pyqt5==5.15.0 numpy==1.19.2 requests==2.23.0 BS4==4.9.0 matplotlib = 3.2.1 scipy = 1.4.1
+##### python==3.8.0 \
+pytorch==1.4.0 \
+pyqt5==5.15.0 \
+numpy==1.19.2 \
+requests==2.23.0 \
+BS4==4.9.0 \
+matplotlib = 3.2.1 \
+scipy = 1.4.1
